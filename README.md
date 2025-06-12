@@ -1,6 +1,4 @@
-# Replication Package for  
-**Model Context Protocol (MCP) at First Glance:**  
-_Studying the Security and Maintainability of MCP Servers_
+# Replication Package
 
 This repository contains the replication data and scripts for the paper titled  
 **"Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers"**.  
