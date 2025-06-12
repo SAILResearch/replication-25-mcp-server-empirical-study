@@ -21,10 +21,10 @@ The repository includes the following datasets:
 
 ### 3. General-Purpose Vulnerabilities
 - **Source:** Static analysis using **SonarQube**
-- **Focus:** Standard vulnerability types such as insecure deserialization, SQL injection, command injection, and other high-severity issues.
+- **Focus:** Standard vulnerabilities detectable by static analysis.
 
 ### 4. MCP-Specific Tool Poisoning Reports
-- **Source:** [mcp-scan](https://github.com/momentohq/mcp-scan)
+- **Source:** [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
 - **Focus:** Identifies **tool poisoning** and other MCP-specific risks in codebases that expose or depend on model context manipulation.
 
 ### 5. Code Smells and Bugs
