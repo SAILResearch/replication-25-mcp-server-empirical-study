@@ -11,7 +11,7 @@ The repository includes the following datasets:
 ### 1. MCP Server List (Full Set)
 - **Count:** 1,899 MCP servers
 - **Description:** Combines both:
-  - Official and community servers listed in [Anthropic's MCP repository](https://github.com/modelcontextprotocol/servers)
+  - Official and community servers listed in <a href="https://github.com/modelcontextprotocol/servers" target="_blank">Anthropic's MCP repository</a>
   - Additional MCP-compatible open source servers mined from GitHub
 
 ### 2. MCP Servers with Star Count > 10
@@ -24,7 +24,7 @@ The repository includes the following datasets:
 - **Focus:** Standard vulnerabilities detectable by static analysis.
 
 ### 4. MCP-Specific Tool Poisoning Reports
-- **Source:** [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan)
+- **Source:** <a href="https://github.com/invariantlabs-ai/mcp-scan" target="_blank">mcp-scan</a>
 - **Focus:** Identifies **tool poisoning** and other MCP-specific risks in codebases that expose or depend on model context manipulation.
 
 ### 5. Code Smells and Bugs
